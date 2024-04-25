@@ -1,5 +1,5 @@
 
-const task = require("../model/task");
+const task = require("../model/taskmodel");
 
 // Add task (admin)
 exports.inserttask = async(req,res) => {
